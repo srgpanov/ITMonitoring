@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ITMonitoring</string>
+    <string name="failed_to_load">"Failed to load the current exchange rates \n shown on "</string>
+
+</resources>
